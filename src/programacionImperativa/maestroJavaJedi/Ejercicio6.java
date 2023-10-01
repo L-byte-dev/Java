@@ -1,4 +1,4 @@
-package programacionImperativa.maestroJavaJedi;
+package programacionimperativa.maestrojavajedi;
 
 public class Ejercicio6 {
     public static void main(String[] args) {

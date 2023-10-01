@@ -1,4 +1,4 @@
-package programacionImperativa.iniciadoJavaJedi;
+package programacionimperativa.iniciadojavajedi;
 
 public class Ejercicio10 {
     public static void main(String[] args) throws Exception {

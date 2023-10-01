@@ -1,4 +1,4 @@
-package programacionImperativa.caballeroJavaJedi;
+package programacionimperativa.caballerojavajedi;
 
 
 public class Ejercicio6 {
